@@ -8,6 +8,8 @@ In all of the C exercises, we could only use a library that we have already code
 
 We also had to follow the syntax rules given by the school. ( limited number of line by function, limited number of 3 functions, everything free, and a uniform syntax)
 
+The exhausted list of exercises can be founded on my old github.
+
 What I learned?
 ===
 In C Programming
@@ -19,7 +21,7 @@ In C Programming
 - Recursion
 - Static libraries
 - Variadic functions
-- singly linked list
+- Singly linked list
 - how to manipulate bit
 - File input and output
 - Doubly linked list
@@ -29,7 +31,7 @@ In C Programming
 - How does the pre processor work
 - Structure in C
 - Makefile
-- search algorythm
+- Search algorythm
 - Pointer on functions
 - binary trees
 
