@@ -15,7 +15,7 @@ What I learned?
 In C Programming
 ======
 - Variable/ if / else / while
-- function nested loops
+- Function nested loops
 - How to use a debugger
 - Pointers on variable
 - Recursion
@@ -33,7 +33,7 @@ In C Programming
 - Makefile
 - Search algorythm
 - Pointer on functions
-- binary trees
+- Binary trees
 
 Side project
 ===
